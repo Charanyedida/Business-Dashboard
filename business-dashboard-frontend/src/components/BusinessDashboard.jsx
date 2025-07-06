@@ -12,7 +12,7 @@ const BusinessDashboard = () => {
   const [errors, setErrors] = useState({});
 
   // Simulated backend URL - in real implementation, this would be your deployed backend
-  const API_BASE_URL = 'http://localhost:3001';
+  const API_BASE_URL = 'https://business-dashboard-nb4d.onrender.com';
 
   const validateForm = () => {
     const newErrors = {};
