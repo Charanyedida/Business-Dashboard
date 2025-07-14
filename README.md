@@ -273,5 +273,4 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
   <p>Made with ❤️ for local businesses</p>
-  <p>© 2025 Business Dashboard. All rights reserved.</p>
 </div>
